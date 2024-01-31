@@ -1,5 +1,11 @@
-# Getting Started with Create React App
+# Fermi Sim, a browser based exploration of alien life
+### Not ready to be hosted yet, but will be expanded further
+#### Current Log:
+1/31/2024: 
+  - Created base layout for alien species
+  - Getting refreshed with React 😅
 
+# General React info below:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
